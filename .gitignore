@@ -1,0 +1,8 @@
+# tool version manager file 
+mise.toml
+
+# node modules
+node_modules/
+
+# .next folder
+.next
